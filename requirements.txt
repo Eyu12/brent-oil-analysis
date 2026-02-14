@@ -1,0 +1,23 @@
+# Core
+python-dateutil==2.8.2
+pytz==2023.3
+numpy==1.24.3
+pandas==2.0.3
+
+# Visualization
+matplotlib==3.8.1
+seaborn==0.12.2
+
+# CLI / Logging
+argparse==1.4.0
+
+# Optional dependencies for advanced analytics
+scipy==1.11.1
+statsmodels==0.14.0
+
+# Linting / Development
+black==24.3.0
+flake8==6.1.0
+
+# Environment management
+python-dotenv==1.0.0
