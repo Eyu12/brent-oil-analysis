@@ -69,6 +69,11 @@ brent-oil-analysis/
 ├── README.md
 └── .github/workflows/ci.yml # CI/CD pipeline
 ```
+## Demo
+<p align="center">
+  <img src="assets/dashboard_demo.png" width="800">
+</p>
+
 ## Technical Details
 
 ### Data
