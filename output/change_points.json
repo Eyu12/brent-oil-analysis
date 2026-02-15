@@ -1,0 +1,272 @@
+[
+  {
+    "date": "1990-08-03T00:00:00",
+    "price_before": 18.63,
+    "price_after": 24.13,
+    "change_pct": 29.522275899087496,
+    "direction": "Increase",
+    "significance": "High",
+    "confidence": 1.0
+  },
+  {
+    "date": "1991-01-15T00:00:00",
+    "price_before": 27.28,
+    "price_after": 29.25,
+    "change_pct": 7.221407624633426,
+    "direction": "Increase",
+    "significance": "High",
+    "confidence": 0.7221407624633426
+  },
+  {
+    "date": "1997-12-24T00:00:00",
+    "price_before": 30.28,
+    "price_after": 17.04,
+    "change_pct": -43.72523117569353,
+    "direction": "Decrease",
+    "significance": "High",
+    "confidence": 1.0
+  },
+  {
+    "date": "1999-08-06T00:00:00",
+    "price_before": 16.35,
+    "price_after": 19.66,
+    "change_pct": 20.244648318042806,
+    "direction": "Increase",
+    "significance": "High",
+    "confidence": 1.0
+  },
+  {
+    "date": "2003-12-24T00:00:00",
+    "price_before": 19.34,
+    "price_after": 29.45,
+    "change_pct": 52.27507755946225,
+    "direction": "Increase",
+    "significance": "High",
+    "confidence": 1.0
+  },
+  {
+    "date": "2004-07-26T00:00:00",
+    "price_before": 29.17,
+    "price_after": 39.75,
+    "change_pct": 36.270140555365096,
+    "direction": "Increase",
+    "significance": "High",
+    "confidence": 1.0
+  },
+  {
+    "date": "2005-06-15T00:00:00",
+    "price_before": 40.09,
+    "price_after": 54.12,
+    "change_pct": 34.99625841855823,
+    "direction": "Increase",
+    "significance": "High",
+    "confidence": 1.0
+  },
+  {
+    "date": "2007-05-17T00:00:00",
+    "price_before": 54.3,
+    "price_after": 69.08,
+    "change_pct": 27.219152854511975,
+    "direction": "Increase",
+    "significance": "High",
+    "confidence": 1.0
+  },
+  {
+    "date": "2007-10-23T00:00:00",
+    "price_before": 69.26,
+    "price_after": 82.31,
+    "change_pct": 18.842044470112615,
+    "direction": "Increase",
+    "significance": "High",
+    "confidence": 1.0
+  },
+  {
+    "date": "2008-04-10T00:00:00",
+    "price_before": 83.47,
+    "price_after": 107.37,
+    "change_pct": 28.633041811429262,
+    "direction": "Increase",
+    "significance": "High",
+    "confidence": 1.0
+  },
+  {
+    "date": "2008-09-02T00:00:00",
+    "price_before": 107.15,
+    "price_after": 104.94,
+    "change_pct": -2.062529164722359,
+    "direction": "Decrease",
+    "significance": "Medium",
+    "confidence": 0.2062529164722359
+  },
+  {
+    "date": "2008-10-14T00:00:00",
+    "price_before": 103.88,
+    "price_after": 74.98,
+    "change_pct": -27.820562187138997,
+    "direction": "Decrease",
+    "significance": "High",
+    "confidence": 1.0
+  },
+  {
+    "date": "2009-05-20T00:00:00",
+    "price_before": 66.86,
+    "price_after": 59.1,
+    "change_pct": -11.606341609332931,
+    "direction": "Decrease",
+    "significance": "High",
+    "confidence": 1.0
+  },
+  {
+    "date": "2009-10-12T00:00:00",
+    "price_before": 58.02,
+    "price_after": 70.75,
+    "change_pct": 21.94071009996552,
+    "direction": "Increase",
+    "significance": "High",
+    "confidence": 1.0
+  },
+  {
+    "date": "2010-11-29T00:00:00",
+    "price_before": 70.81,
+    "price_after": 85.9,
+    "change_pct": 21.31054935743539,
+    "direction": "Increase",
+    "significance": "High",
+    "confidence": 1.0
+  },
+  {
+    "date": "2011-02-16T00:00:00",
+    "price_before": 86.02,
+    "price_after": 102.78,
+    "change_pct": 19.483840967216935,
+    "direction": "Increase",
+    "significance": "High",
+    "confidence": 1.0
+  },
+  {
+    "date": "2012-05-14T00:00:00",
+    "price_before": 103.45,
+    "price_after": 110.79,
+    "change_pct": 7.095215079748673,
+    "direction": "Increase",
+    "significance": "High",
+    "confidence": 0.7095215079748673
+  },
+  {
+    "date": "2014-09-05T00:00:00",
+    "price_before": 111.4,
+    "price_after": 99.51,
+    "change_pct": -10.673249551166966,
+    "direction": "Decrease",
+    "significance": "High",
+    "confidence": 1.0
+  },
+  {
+    "date": "2014-12-01T00:00:00",
+    "price_before": 99.53,
+    "price_after": 70.87,
+    "change_pct": -28.795338089018387,
+    "direction": "Decrease",
+    "significance": "High",
+    "confidence": 1.0
+  },
+  {
+    "date": "2015-08-03T00:00:00",
+    "price_before": 71.13,
+    "price_after": 49.49,
+    "change_pct": -30.423168845775333,
+    "direction": "Decrease",
+    "significance": "High",
+    "confidence": 1.0
+  },
+  {
+    "date": "2016-05-09T00:00:00",
+    "price_before": 49.08,
+    "price_after": 42.43,
+    "change_pct": -13.54930725346373,
+    "direction": "Decrease",
+    "significance": "High",
+    "confidence": 1.0
+  },
+  {
+    "date": "2017-09-18T00:00:00",
+    "price_before": 44.01,
+    "price_after": 55.5,
+    "change_pct": 26.107702794819364,
+    "direction": "Increase",
+    "significance": "High",
+    "confidence": 1.0
+  },
+  {
+    "date": "2018-04-09T00:00:00",
+    "price_before": 56.58,
+    "price_after": 68.19,
+    "change_pct": 20.519618239660655,
+    "direction": "Increase",
+    "significance": "High",
+    "confidence": 1.0
+  },
+  {
+    "date": "2018-11-07T00:00:00",
+    "price_before": 70.67,
+    "price_after": 70.1,
+    "change_pct": -0.806565728031707,
+    "direction": "Decrease",
+    "significance": "Low",
+    "confidence": 0.0806565728031707
+  },
+  {
+    "date": "2020-03-06T00:00:00",
+    "price_before": 69.29,
+    "price_after": 45.6,
+    "change_pct": -34.18963775436571,
+    "direction": "Decrease",
+    "significance": "High",
+    "confidence": 1.0
+  },
+  {
+    "date": "2020-05-20T00:00:00",
+    "price_before": 35.33,
+    "price_after": 34.76,
+    "change_pct": -1.6133597509198991,
+    "direction": "Decrease",
+    "significance": "Low",
+    "confidence": 0.1613359750919899
+  },
+  {
+    "date": "2021-01-05T00:00:00",
+    "price_before": 34.78,
+    "price_after": 53.16,
+    "change_pct": 52.846463484761344,
+    "direction": "Increase",
+    "significance": "High",
+    "confidence": 1.0
+  },
+  {
+    "date": "2021-05-28T00:00:00",
+    "price_before": 53.8,
+    "price_after": 69.36,
+    "change_pct": 28.921933085501866,
+    "direction": "Increase",
+    "significance": "High",
+    "confidence": 1.0
+  },
+  {
+    "date": "2022-02-03T00:00:00",
+    "price_before": 70.03,
+    "price_after": 92.99,
+    "change_pct": 32.78594887905182,
+    "direction": "Increase",
+    "significance": "High",
+    "confidence": 1.0
+  },
+  {
+    "date": "2022-08-03T00:00:00",
+    "price_before": 96.86,
+    "price_after": 101.82,
+    "change_pct": 5.1207928969646845,
+    "direction": "Increase",
+    "significance": "High",
+    "confidence": 0.5120792896964684
+  }
+]
