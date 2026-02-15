@@ -8,7 +8,7 @@ from pathlib import Path
 from typing import Dict
 import logging
 
-from src.config import DataConfig
+from config import DataConfig
 
 logger = logging.getLogger(__name__)
 

@@ -13,10 +13,10 @@ from datetime import datetime, timedelta
 # Add src to path for module imports
 sys.path.append(str(Path(__file__).parent.parent))
 
-from src.config import AppConfig
-from src.data_loader import DataLoader
-from src.change_point import ChangePointDetector, ChangePointMethod
-from src.risk_metrics import RiskAnalyzer
+from config import AppConfig
+from data_loader import DataLoader
+from change_point import ChangePointDetector, ChangePointMethod
+from risk_metrics import RiskAnalyzer
 
 
 # -------------------------

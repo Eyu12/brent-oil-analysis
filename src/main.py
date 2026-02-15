@@ -9,11 +9,11 @@ import logging
 import json
 from typing import Optional
 
-from src.config import AppConfig
-from src.data_loader import DataLoader
-from src.change_point import ChangePointDetector, ChangePointMethod
-from src.risk_metrics import RiskAnalyzer
-from src.visualization import Visualizer
+from config import AppConfig
+from data_loader import DataLoader
+from change_point import ChangePointDetector, ChangePointMethod
+from risk_metrics import RiskAnalyzer
+from visualization import Visualizer
 
 # Configure logging
 logging.basicConfig(

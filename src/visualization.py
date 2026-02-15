@@ -11,8 +11,8 @@ from typing import List, Optional
 from pathlib import Path
 import logging
 
-from src.change_point import ChangePoint
-from src.risk_metrics import RiskMetrics
+from change_point import ChangePoint
+from risk_metrics import RiskMetrics
 
 logger = logging.getLogger(__name__)
 
